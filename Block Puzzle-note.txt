@@ -1,1 +1,6 @@
-Link github: 
+- sản phẩm chưa hoàn thiện
+Link github:
+
+	https://github.com/xuongthin/Block-Puzzle
+
+! các hình ảnh và thiết kế thuộc về Super Game Studio
